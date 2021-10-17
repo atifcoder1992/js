@@ -14,7 +14,10 @@ var age =prompt("العمر" , "29 سنه");
 
 
 var college =prompt("الجامعه " , "كليه الامارات للعلوم والتكنولوجيا");
-alert(name + addres+age +age) ;
+alert(college) ;
+
+var deparment =prompt("التخصص " , "تقنيه المعلومات");
+alert(deparment ) ;
 
 window. close();
 
