@@ -14,7 +14,7 @@ var age =prompt("العمر" , "29 سنه");
 
 
 var college =prompt("الجامعه " , "كليه الامارات للعلوم والتكنولوجيا");
-window.alert(college + age);
+window.alert(name + addres+age +age) ;
 
 window. close();
 
